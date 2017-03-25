@@ -1,0 +1,14 @@
+"unlitgeneric"
+{
+	"$basetexture" "effects/prisonmap_disp"
+	"$selfillum" "1"
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" "20"
+      }
+   }
+}

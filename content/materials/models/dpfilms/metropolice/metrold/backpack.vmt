@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+$basetexture "models\DPFilms\Metropolice\metrold\backpack"
+$bumpmap "models\DPFilms\Metropolice\metrold\backpack_n"
+
+$phong 1
+$phongboost ".5"
+$phongexponent "10"
+$phongfresnelranges "[1 1 30]"
+$ambientocclusion 1
+
+
+$rimlight "1"	
+$rimlightexponent "1"
+$rimlightboost ".25"
+}

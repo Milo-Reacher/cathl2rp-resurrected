@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	$baseTexture 			"models/tnb/combine/metrocop_armband01"
+	$detail 				"models/tnb/combine/noise_detail"
+	$detailscale 			"15"	
+
+
+}

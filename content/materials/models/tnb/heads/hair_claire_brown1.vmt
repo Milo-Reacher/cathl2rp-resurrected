@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tnb/heads/hair_claire_brown1"
+	"$translucent" 1
+
+	"$halflambert" 1
+}

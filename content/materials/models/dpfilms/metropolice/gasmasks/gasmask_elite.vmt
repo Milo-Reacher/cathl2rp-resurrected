@@ -1,0 +1,19 @@
+
+"VertexLitGeneric"
+{
+$basetexture "models\DPFilms\Metropolice\Elite\elite_gasmask"
+$bumpmap "models\DPFilms\Metropolice\Elite\elite_gasmask_n"
+\\$bumpmap "models\DPFilms\Metropolice\shared\blank_n"
+$selfillum "1"
+
+$phong "1"
+$phongboost ".75"
+$phongexponenttexture "models\DPFilms\Metropolice\Elite\elite_gasmask_exp"
+$halflambert 0
+$phongfresnelranges "[1 1 10]"
+$ambientocclusion 1
+
+$rimlight "1"	
+$rimlightexponent "1"
+$rimlightboost "1"
+}

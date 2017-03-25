@@ -1,0 +1,8 @@
+"unlitGeneric"
+{
+
+	"$basetexture" "models/tnb/heads/zk_bangs"
+    "$model" 1
+	"$nocull" 1
+	"$receiveflashlight" 0
+} 

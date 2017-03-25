@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 				"models/tnb/citizens/trenchcoat_dirty1"
+	"$bumpmap" 					"models/tnb/citizens/trenchcoat_dirty_normal"
+
+
+}

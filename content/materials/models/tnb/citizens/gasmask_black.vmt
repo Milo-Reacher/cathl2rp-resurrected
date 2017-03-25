@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models/tnb/citizens/gasmask_black"
+	"$bumpmap" 				"models/tnb/citizens/scientist_normal"
+	"$translucent" 			"1"
+	"$halflambert" 			"1"
+	"$detail"				"models/tnb/combine/noise_detail"
+	"$detailscale"			"15"	
+	"$surfaceprop" 			"glass"
+	
+	"$phong" 				"1"
+	"$phongboost" 			"1"		
+	"$phongfresnelranges"	"[3 3 8]"
+	"$phongalbedotint" 		"0.5"
+	"$phongexponent" 		"15"
+	"$model" 				"1"	
+
+}

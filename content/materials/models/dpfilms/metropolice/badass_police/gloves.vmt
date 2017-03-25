@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	$basetexture "models\DPFilms\Metropolice\shared\black"
+	$bumpmap "models\DPFilms\Metropolice\badass_police\gloves_normal"
+
+	$phong "1"
+	$phongexponent "3"
+	$phongboost "0.25"
+	$phongfresnelranges  "[1 1 30]"
+	$phongalbedotint "1"
+
+	$rimlight "1"
+	$rimlightexponent "15"
+	$rimlightboost "0.2"
+}

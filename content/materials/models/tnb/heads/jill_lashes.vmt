@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 			"models/tnb/heads/jill_lashes"
+
+	"$nocull" 1
+	"$translucent" 1
+}

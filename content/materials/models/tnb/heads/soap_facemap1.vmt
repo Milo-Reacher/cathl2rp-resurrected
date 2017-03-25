@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models/tnb/heads/soap_facemap1"
+	"$bumpmap" 		"models/tnb/heads/soap_facemap_normal"
+
+}

@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"				"models/tnb/heads/zk_face"
+    "$bumpmap"     				"models/tnb/heads/zk_face_normal"
+
+	"$nocull" 1
+	"$model" "1"
+	"$halflambert" 1
+ 	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[0.3 1.3 1.3]"
+	"$phongalbedotint" "1"
+	"$rimlight" "0"	
+	"$rimlightexponent" "5"
+	"$rimlightboost" "2"
+
+
+} 
+
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"				"models/tnb/heads/ashes_facemap1"
+	"$halflambert" 				"1"
+}

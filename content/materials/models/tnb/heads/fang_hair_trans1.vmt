@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 				"models/tnb/heads/fang_hair_trans1"
+	"$halflambert" 				"1"
+//	"$translucent" 				"1"
+	"$alphatocoverage"			"1"
+	"$alphatest"			"1"
+}

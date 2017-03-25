@@ -1,0 +1,30 @@
+
+"VertexLitGeneric"
+{
+$basetexture "models\DPFilms\Metropolice\Ministrider_Police\gasmask"
+$bumpmap "models\DPFilms\Metropolice\Metrocop_shared\normal"
+$selfillum "1"
+$selfillumtint "[.25 4 4]"
+
+$phong "1"
+$phongboost "4.75"
+\\$phongexponent 10
+$phongexponenttexture "models\DPFilms\Metropolice\Metrocop_shared\gasmask_exp"
+\\$phongtint "[1 1.25 1]"
+$halflambert 0
+$phongfresnelranges   "[1 .7 .3]"
+$ambientocclusion 1
+$phongwarptexture "models\DPFilms\Metropolice\Ministrider_Police\mini_iridescence"
+
+\\$color2 "{255 255 255}"
+\\$blendTintByBaseAlpha "1"
+
+$rimlight "1"	
+$rimlightexponent "1"
+$rimlightboost "1"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[ .1 .1 .1 ]"
+	"$envmapconstrast" "1"
+}

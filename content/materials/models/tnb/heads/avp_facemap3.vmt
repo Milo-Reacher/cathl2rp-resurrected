@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 			"models/tnb/heads/avp_facemap3"
+	"$basetexture" 			"models/tnb/heads/avp_facemap_normal"
+
+	"$surfaceprop" 			"flesh"
+
+    "$phong" 				"1"
+    "$phongboost" 			"1.4"
+    "$phongtint" 			"[.85 .85 1]"
+    "$phongfresnelranges"	"[.2 .5 5]"
+
+
+}

@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/tnb/heads/soap_hair1"
+	"$translucent" 1
+	"$nocull" 1
+}

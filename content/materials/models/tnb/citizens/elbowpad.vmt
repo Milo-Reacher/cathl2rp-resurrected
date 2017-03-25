@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 		"models/tnb/citizens/elbowpad"
+
+		$detail 				"models/tnb/combine/noise_detail"
+	$detailscale 			"15"	
+}

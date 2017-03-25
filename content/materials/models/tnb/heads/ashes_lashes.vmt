@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	$baseTexture 				"models/tnb/heads/ashes_lashes"
+	"$halflambert" 				"1"
+	"$translucent" 				"1"
+	"$nocull" 					"1"
+}

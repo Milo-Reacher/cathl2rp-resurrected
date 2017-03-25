@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$translucent" 1
+	"$basetexture" "models/tnb/heads/zk_lashes"
+    "$model" 1
+	"$nocull" 1
+} 

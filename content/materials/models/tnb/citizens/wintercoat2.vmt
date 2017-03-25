@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 			"models/tnb/citizens/wintercoat2"
+	"$bumpmap" 				"models/tnb/citizens/wintercoat_normal"
+
+	$detail 				"models/tnb/combine/noise_detail"
+	$detailscale 			"15"	
+}

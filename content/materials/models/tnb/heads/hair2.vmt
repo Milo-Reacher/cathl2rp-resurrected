@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/humans/female/blair/hair1"
+	"$bumpmap" "models/humans/female/blair/hair1_normal"
+
+
+	"$translucent" 1
+	"$nocull" 1
+}

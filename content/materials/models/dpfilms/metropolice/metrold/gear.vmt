@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+$basetexture "models\DPFilms\Metropolice\metrold\vest"
+$bumpmap "models\DPFilms\Metropolice\metrocop_shared\boots_n"
+$nocull "1"
+
+$phong "1"
+$phongboost ".25"
+$phongexponent "2.28"
+$halflambert 0
+$phongfresnelranges "[1 1 10]"
+$ambientocclusion 1
+}

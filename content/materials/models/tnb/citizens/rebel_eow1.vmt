@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 			"models/tnb/citizens/rebel_eow1"
+    "$bumpmap"      		"models/tnb/combine/eow_normal"
+	"$surfaceprop" 			"plaster"
+	"$selfillum" 			2
+	"$model" 				1
+	
+	$detail 				"models/tnb/combine/noise_detail"
+	$detailscale 			"15"	
+}
+
+
+

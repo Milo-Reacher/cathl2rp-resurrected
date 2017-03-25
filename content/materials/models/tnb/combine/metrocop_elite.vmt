@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+$baseTexture 		"models/tnb/combine/metrocop_elite"
+$bumpmap 			"models/tnb/combine/metrocop_sheet_normal"
+
+$phong 				"1"
+$phongboost 		".5"
+$phongexponent 		"4.45"
+
+$phongfresnelranges "[1 1 30]"
+$ambientocclusion 	"1"
+$diffuseexp 		"1.5"
+
+$selfillum "1"
+
+$detail 			"models/tnb/combine/noise_detail"
+$detailscale 		"5"
+
+$rimlight 			"0"	
+$rimlightexponent 	"10"
+$rimlightboost 		".45"
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tnb/heads/clara_facemap1"
+	"$nocull" "1"
+	"$halflambert" "1"
+
+}

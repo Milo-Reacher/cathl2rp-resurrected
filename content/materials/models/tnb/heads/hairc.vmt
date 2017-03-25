@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+//Hostage1
+//Texture the Back hair  (TOP layer).
+	"$baseTexture" "models\tnb\citizens\hairc"
+	"$translucent" 0
+	"$halflambert" 1
+	"$nodecal" 1
+}

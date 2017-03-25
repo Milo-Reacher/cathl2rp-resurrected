@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture "			"models/tnb/citizens/gasmask_glass"
+	"$translucent" 			"1"
+	"$halflambert" 			"1"
+
+
+}

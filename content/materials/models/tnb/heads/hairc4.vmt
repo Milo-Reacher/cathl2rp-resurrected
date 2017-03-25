@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\tnb\citizens\hairc4"
+	"$translucent" 1
+	"$halflambert" 1
+	"$nodecal" 1
+}

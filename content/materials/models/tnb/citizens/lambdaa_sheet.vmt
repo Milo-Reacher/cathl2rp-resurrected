@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+"$baseTexture" "models/tnb/citizens/lambdaa_sheet"
+	"$bumpmap" "models/tnb/citizens/lambdaa_sheet_normal"
+	"$surfaceprop" "flesh"
+	"$model" 0.5
+	"$halflambert" 1
+	"$phong" "0.5"
+	"$phongboost" "0.2"	
+	"$phongfresnelranges"	"[3 5 8]"
+	"$phongalbedotint" "0.5"
+}
+
+
+

@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$baseTexture"		"models/tnb/citizens/headgear2"
+
+ 	"$halflambert"		"1"
+
+}

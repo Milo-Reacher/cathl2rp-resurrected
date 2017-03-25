@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+$baseTexture 		"models/combine_soldier/combine_elite"
+$bumpmap 			"models/combine_soldier/combine_elite_normal"
+
+$phong 				"1"
+$phongboost 		".25"
+$phongexponent 		"3"
+$phongtint 			"[.85 .85 1]"
+$phongfresnelranges "[1 1 30]"
+$ambientocclusion 	"1"
+
+$detail 			"models/tnb/combine/noise_detail"
+$detailscale 		"5"
+
+
+$rimlight 			"1"	
+$rimlightexponent 	"1"
+$rimlightboost 		"1"
+
+}

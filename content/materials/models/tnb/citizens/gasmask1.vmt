@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	$basetexture 			"models/tnb/citizens/gasmask1"
+
+	$detail 				"models/tnb/combine/noise_detail"
+	$detailscale 			"15"		
+
+}

@@ -1,0 +1,20 @@
+
+"VertexLitGeneric"
+{
+$baseTexture 			"models/tnb/combine/metrocop_gasmask"
+$bumpmap 				"models/tnb/combine/metrocop_gasmask_normal"
+
+
+$phong 					"1"
+$phongboost 			".25"
+$phongexponent 			"2.75"
+$phongtint 				"[1 1.25 1]"
+$phongfresnelranges 	"[1 1 10]"
+$ambientocclusion 		"1"
+
+$detail 				"models/tnb/combine/noise_detail"
+$detailscale 			"5"
+$rimlight 				"1"	
+$rimlightexponent 		"5"
+$rimlightboost 			".5"
+}

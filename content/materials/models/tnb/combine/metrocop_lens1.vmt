@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+$baseTexture 		"models/tnb/combine/metrocop_lens"
+$selfillum 			"1"
+//$selfillumtint 		"[.25 1.5 4]"
+}

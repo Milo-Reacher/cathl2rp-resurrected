@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+$basetexture "models\DPFilms\Metropolice\biopolice\W_IRifle"
+$bumpmap "models\DPFilms\Metropolice\biopolice\w_irifle_normal"
+
+$phong "1"
+$phongboost "1"
+$phongexponent "10"
+$phongtint "[.75 .75 1]"
+$phongfresnelranges "[1 1 3]"
+$ambientocclusion 1
+}
+
+

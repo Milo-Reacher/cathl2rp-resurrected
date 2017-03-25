@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+$baseTexture "models\DPFilms\Metropolice\CPFrag\gloves"
+$bumpmap "models\DPFilms\Metropolice\Metrocop_shared\gloves_n"
+
+$phong 1
+$phongboost ".05"
+$phongexponent "2.45"
+$phongfresnelranges "[1 1 30]"
+$ambientocclusion 1
+
+$rimlight "1"	
+$rimlightexponent "1"
+$rimlightboost ".25"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[ .25 .25 .25 ]"
+	"$envmapconstrast" "1"
+}

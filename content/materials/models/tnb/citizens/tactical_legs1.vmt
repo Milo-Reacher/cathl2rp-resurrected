@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" 		"models/tnb/citizens/tactical_legs1"
+	"$bumpmap"			"models/tnb/citizens/tactical_legs_normal"		
+}

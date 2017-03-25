@@ -1,0 +1,19 @@
+
+"VertexLitGeneric"
+{
+$basetexture "models\DPFilms\Metropolice\TF2police\gasmask_blu"
+$bumpmap "models\DPFilms\Metropolice\TF2police\gasmask_n"
+$selfillum "0"
+$selfillumtint "[.25 4 4]"
+
+$phong "1"
+$phongexponent "10"
+$phongboost ".1"	
+$lightwarptexture "models\DPFilms\Metropolice\TF2police\lightwarp"
+$phongfresnelranges	"[2 1 5]"
+$halflambert "1"
+
+$rimlight "1"
+$rimlightexponent "4"
+$rimlightboost "2"
+}

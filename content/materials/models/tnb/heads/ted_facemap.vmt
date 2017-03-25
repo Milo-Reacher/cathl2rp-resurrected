@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	$baseTexture 				"models/tnb/heads/ted_facemap"
+    "$bumpmap"     				"models/tnb/heads/ted_facemap_normal"
+    "$phong" 					"1"
+	"$phongexponent" 			"5"
+	"$phongboost" 				"1"	
+	"$phongfresnelranges"		"[.1 0.2 1]"
+
+	"$blendtintbybasealpha" 	"1"
+
+
+	
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" 		"models/tnb/citizens/female_arm_white"
+
+		"$halflambert" "1"
+}

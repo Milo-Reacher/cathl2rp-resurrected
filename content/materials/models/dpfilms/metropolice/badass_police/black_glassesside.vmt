@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+$basetexture "models\DPFilms\Metropolice\shared\black"
+$bumpmap "models\DPFilms\Metropolice\shared\blank_n"
+$phong "1"
+$phongboost ".15"
+$phongexponent 10
+$phongfresnelranges "[1 1 5]"
+}

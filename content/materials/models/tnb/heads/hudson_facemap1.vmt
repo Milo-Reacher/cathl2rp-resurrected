@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tnb/heads/hudson_facemap1"
+
+	"$halflambert" "1"
+
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/tnb/heads/chuck_facemap1"
+
+ 	"$halflambert"		"1"
+
+}

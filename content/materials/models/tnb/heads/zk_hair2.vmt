@@ -1,0 +1,9 @@
+"unlitGeneric"
+{
+
+	"$baseTexture" "models/tnb/heads/zk_hair2"
+	"$translucent" 1
+	"$nocull" "1"
+    "$model" 1
+	"$receiveflashlight" 0	
+}

@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 		"models/tnb/heads/hair_jill1"
+	"$bumpmap" 			"models/tnb/heads/hair_jill_normal"
+	"$halflambert" 		"1"
+	"$alphatest" 		"1"
+	"$nocull" 			"1"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 		"models/tnb/citizens/coyote_black"
+	"$bumpmap" 			"models/tnb/citizens/coyote_normal"
+
+}

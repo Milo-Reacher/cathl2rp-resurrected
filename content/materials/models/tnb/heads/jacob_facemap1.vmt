@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 			"models/tnb/heads/jacob_facemap1"
+	"$bumpmap" 				"models/tnb/heads/jacob_facemap_normal"
+	"$phong" 				"1"
+	"$phongexponenttexture" "models/tnb/heads/jacob_facemap_normal"
+	"$phongexponent" 		"5"
+	"$phongboost"			"6"
+	"$phongfresnelranges"	"[.1 .25 .5]"
+}
+

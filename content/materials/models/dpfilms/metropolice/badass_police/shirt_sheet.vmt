@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\DPFilms\Metropolice\badass_police\suit_sheet"
+	"$bumpmap" "models\DPFilms\Metropolice\badass_police\suit_sheet_normal"
+
+$nocull 1
+	"$phong"	"1"
+	"$phongexponent"	"4.75"
+	"$phongboost"	"0.25"
+	"$phongfresnelranges"	"[1 1 30]"
+	"$phongalbedotint"	"1"
+	
+	"$rimlight"	"1"
+	"$rimlightexponent"	"7"
+	"$rimlightboost"	"1"
+
+	"$ambientocclusion"	"1"
+	"$diffuseexp"	"1.5"
+}

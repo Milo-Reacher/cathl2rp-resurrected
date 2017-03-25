@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	$baseTexture 				"models/tnb/heads/joey_facemap2"
+    "$bumpmap"     				"models/tnb/heads/joey_facemap_normal"
+	"$phong" 1
+	"$phongboost" 0.1
+	"$phongexponent" 0.5
+
+	
+	"$phongfresnelranges" "[0.2 .85 30]"
+	"$phongalbedotint" "1"
+	
+	"$rimlight" "0"	
+	"$rimlightexponent" "15"
+	"$rimlightboost" "0.2"
+	"$blendtintbybasealpha" 1
+}

@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+$baseTexture "models\DPFilms\Metropolice\shared\black"
+$bumpmap "models\DPFilms\Metropolice\Metrocop_shared\gloves2_n"
+
+$phong "1"
+$phongboost "1"
+$phongexponent "7.45"
+\\$phongtint "[1 1.25 1]"
+$halflambert 0
+$phongfresnelranges   "[1 .7 .3]"
+$ambientocclusion 1
+$phongwarptexture "models\DPFilms\Metropolice\Ministrider_Police\mini_iridescence"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[ .01 .01 .01 ]"
+	"$envmapconstrast" "1"
+}

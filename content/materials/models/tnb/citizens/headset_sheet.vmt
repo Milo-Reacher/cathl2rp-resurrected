@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Humans/Male/headset_sheet"
+	"$selfillum" 1
+
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" 1
+	"$phongalbedotint" "1"								
+	"$phongfresnelranges"	"[0.0 0.1 0.1]"
+
+
+}

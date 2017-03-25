@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$additive" 0
+	"$baseTexture" "models\DPFilms\Metropolice\badass_police\aviator"
+	"$translucent" 1
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1.5"
+	"$envmapsaturation" .25
+	"$model" 1
+
+
+}

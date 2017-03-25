@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+$basetexture "models\DPFilms\Metropolice\metrocop_shared\eye_glow"
+$selfillum "1"
+$selfillumtint "[1.5 2 2.25]"
+}

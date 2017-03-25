@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 			"models/tnb/heads/shep_scalp1"
+	"$bumpmap" 				"models/tnb/heads/shep_scalp_normal"
+	"$phong" 				"1"
+
+}
+

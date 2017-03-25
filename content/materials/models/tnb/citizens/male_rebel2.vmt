@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 			"models/tnb/citizens/male_rebel2"
+	"$bumpmap" 				"models/tnb/citizens/male_rebel_normal"
+
+	$detail 				"models/tnb/combine/noise_detail"
+	$detailscale 			"15"	
+
+	"$phong" "1"
+	"$phongboost" "1.0"
+	"$phongexponent" "8"
+	"$phongfresnelranges"	"[.1 .5 1]"
+	"$phongtint" "[0.8 0.6 0.4]"
+	"$rimlight" "1"
+	"$rimlightboost" "0.2"
+	"$rimlightexponent" "4"		
+}

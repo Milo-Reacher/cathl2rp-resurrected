@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tnb/heads/hair_sherry1"
+//	"$translucent" 				"1"
+	"$alphatocoverage"			"1"
+	"$alphatest"			"1"
+
+	"$halflambert" 1
+
+
+
+}
